@@ -15,7 +15,7 @@ owner:
   email:          me@etmartinez.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook:       https://www.facebook.com/profile.php?id=1389777849
+  facebook:       
   github:         
   stackexchange:  
   linkedin:       etmartinez
@@ -38,7 +38,7 @@ bing_verify:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
-highlighter: rouge
+highlighter: pygments
 markdown:    kramdown
 sass:
   sass_dir: _sass
