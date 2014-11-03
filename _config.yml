@@ -9,16 +9,16 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Eric Martinez
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  email:          martinez.t.eric@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook:       
+  facebook:       https://www.facebook.com/profile.php?id=1389777849
   github:         
   stackexchange:  
-  linkedin:       
+  linkedin:       http://www.linkedin.com/pub/eric-martinez/12/a85/921/
   instagram:      
   flickr:         
   tumblr:         
