@@ -16,12 +16,12 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       https://www.facebook.com/profile.php?id=1389777849
-  github:         
-  stackexchange:  
+  #github:         
+  #stackexchange:  
   linkedin:       etmartinez
-  instagram:      
-  flickr:         
-  tumblr:         
+  #instagram:      
+  #flickr:         
+  #tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
   google_plus:    +EricMartinezTheOnly
@@ -30,7 +30,7 @@ owner:
 background: 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics:   UA-56314892-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
