@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Bueller.. Bueller.."
+date:   2014-11-12 09:33:35
+categories: test
+---
+
+Apparently this will be my first real blog post using the Jekyll platform running off GitHub. I'm pretty excited about this! Finally something that's fast, easy, and efficient for someone whom already spends large portions of his day within a text editor (even if it's not typically using markdown).
+
+And so today I embark on a journey of Internet famdom, or utter defeat. Really depending on whether I keep this up to date or I abandon it within the next few weeks.
+
+Testing
+===============
+
+Here I am just testing some [syntax][syntax] to see if everything works as expected. 
+
+Quote being written below:
+
+> Do not go gentle into that good night,
+> Old age should burn and rave at close of day;
+> Rage, rage against the dying of the light.
+> Though wise men at their end know dark is right,
+> Because their words had forked no lightning they
+> Do not go gentle into that good night.
+> Good men, the last wave by, crying how bright
+> Their frail deeds might have danced in a green bay,
+> Rage, rage against the dying of the light.
+> Wild men who caught and sang the sun in flight,
+> And learn, too late, they grieved it on its way,
+> Do not go gentle into that good night.
+> Grave men, near death, who see with blinding sight
+> Blind eyes could blaze like meteors and be gay,
+> Rage, rage against the dying of the light.
+> And you, my father, there on the sad height,
+> Curse, bless, me now with your fierce tears, I pray.
+> Do not go gentle into that good night.
+> Rage, rage against the dying of the light.
+
+
+
+[syntax]: http://www.syntax.com
